@@ -30,4 +30,5 @@ h 切换当前下载缓存的主目录.[/Volumes/data/music/] (Download Home)
 pip3 install requests
 pip3 install pyDes
 python3 main.py
+
 ```
